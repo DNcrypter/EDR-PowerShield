@@ -60,8 +60,8 @@ powershell -ExecutionPolicy Bypass -File .\MonitorLoginAttempts.ps1
 
 - Ensure the task is set to run with the highest privileges.
 
-![Screenshot 1](https://github.com/DNcrypter/EDR-PowerShield\statics\Screenshot_1)
-![Screenshot 2](https://github.com/DNcrypter/EDR-PowerShield\statics\Screenshot_2)
+![Screenshot 1](https://github.com/DNcrypter/EDR-PowerShield/blob/main/statics/Screenshot_1.png)
+![Screenshot 2](https://github.com/DNcrypter/EDR-PowerShield/blob/main/statics/Screenshot_2.png)
 
 ## Future release
 I am working on this project some more ideas are in my mind. Some more advancement i am thinking and you will get to see advance features in future release....
