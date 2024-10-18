@@ -48,7 +48,6 @@ $global:SmtpSubject = "Alert: System Compromised"
  ***Note:*** Ensure MonitorLoginAttempts.ps1, isolate.ps1, and send_slack_mail.ps1 are in the same directory as config.ps1. 
  
 4. **Run the Monitoring Script**
-Start the monitoring script to begin tracking login attempts:
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\MonitorLoginAttempts.ps1
 ```
@@ -69,6 +68,6 @@ I am working on this project some more ideas are in my mind. Some more advanceme
 
 **tip**:- "Fellow researchers, focus on understanding concepts deeply rather than rote memorization. Practice, practice, and practice again."
 
-## contributions
+## Contributions
 Pull requests are always welcome and appreciated. Your contributions help make this project even better for everyone.
 
