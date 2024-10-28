@@ -1,6 +1,6 @@
 
-#  ****EDR**** - PowerShield
-## EDR Security Solution: 
+#  ****EDR**** - PowerShield 🧿
+## 🔐 EDR Security Solution: 
 
 **EDR** is powerful tool combines IDS (Intrusion Detection System) and IPS (Intrusion Prevention System) capabilities into a single, efficient package. Leveraging ***PowerShell scripts***, it continuously monitors network activity, isolates compromised machines upon detecting anomalies, and send detailed alerts and triage reports via email and Slack. It consider to be vital asset for proactive network security management.
 
@@ -8,7 +8,7 @@
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
         [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
-## Features
+## 📱Features
 
 - **Advanced Monitoring**: Continuously monitors network activities to detect any anomalies or suspicious behavior.
 - **Automated Isolation**: Instantly ***isolates*** compromised machines from the network upon detecting multiple failed login attempts.
@@ -16,9 +16,9 @@
 - **Customizable Options**: Allows users to specify target IP ranges and port lists.
 - **Scalable and Efficient**: Designed to handle large-scale network environments with ***minimal resource*** usage, ensuring robust security management
 
-## Installation / Setup
+## 🛠 Installation / Setup
 
-### Prerequisites:
+### 🔗 Prerequisites:
 - PowerShell 5.1 or later
 - An active Slack Webhook URL
 - email address for send triaged report.
@@ -64,11 +64,11 @@ powershell -ExecutionPolicy Bypass -File .\MonitorLoginAttempts.ps1
 
 ![Screenshot 2](https://github.com/DNcrypter/EDR-PowerShield/blob/main/statics/Screenshot_2.png)
 
-## Future release
+## 🍁 Future release
 I am working on this project some more ideas are in my mind. Some more advancement i am thinking and you will get to see advance features in future release....
 
 **tip**:- "Fellow researchers, focus on understanding concepts deeply rather than rote memorization. Practice, practice, and practice again."
 
-## Contributions
+## 📝 Contributions
 Pull requests are always welcome and appreciated. Your contributions help make this project even better for everyone.
 
